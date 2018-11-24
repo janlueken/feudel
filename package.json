@@ -1,8 +1,16 @@
 {
     "name": "feudel",
     "version": "1.0.0",
-    "keywords": ["util", "functional", "server", "client", "browser"],
+    "keywords": [
+        "util",
+        "functional",
+        "server",
+        "client",
+        "browser"
+    ],
     "author": "Jan",
     "contributors": [],
-    "dependencies": {}
+    "dependencies": {
+        "express": "^4.16.4"
+    }
 }
